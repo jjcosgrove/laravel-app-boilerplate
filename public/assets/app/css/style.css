@@ -1,0 +1,19 @@
+/** default overrides */
+.navbar {
+    border-radius: 0;
+}
+.bootstrap-select .form-control {
+    border: 0;
+}
+.bootstrap-select .btn {
+    text-transform: capitalize;
+}
+.message-popup {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+}
+.message-popup .message {
+    padding: 20px 20px;
+}
