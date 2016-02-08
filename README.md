@@ -78,14 +78,14 @@ Default user/password is: admin@localhost/password
 - 503
 
 **3rd Party CSS Libraries**
-- [FontAwesome](https://fortawesome.github.io/Font-Awesome/){:target="_blank"}
-- [Animate.css](https://daneden.github.io/animate.css/){:target="_blank"}
+- [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+- [Animate.css](https://daneden.github.io/animate.css/)
 
 **3rd Party JS Libraries**
-- [jQuery](http://jquery.com/){:target="_blank"}
-- [Bootstrap](http://getbootstrap.com/){:target="_blank"}
-- [Bootstrap-select](https://silviomoreto.github.io/bootstrap-select/){:target="_blank"}
-- [Bootswatch](https://bootswatch.com/){:target="_blank"}
+- [jQuery](http://jquery.com/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap-select](https://silviomoreto.github.io/bootstrap-select/)
+- [Bootswatch](https://bootswatch.com/)
 
 ## Notes
 There is already a .htaccess in the root to rewrite to /public
